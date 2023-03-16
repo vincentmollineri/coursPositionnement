@@ -1,0 +1,36 @@
+.element1
+{
+    width: 250px;
+    height: 250px;
+    background-color: crimson;
+    position: relative;
+    top: 440px;
+    left: 50px;
+}
+
+.element2
+{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    position: absolute;
+    top: 440px;
+    left: 50px;
+}
+
+.element3
+{
+    width: 150px;
+    height: 150px;
+   background-color: violet;
+   position: fixed;
+   top: 0;
+}
+
+.element4
+{
+    width: 200px;
+    height: 200px;
+    background-color: burlywood;
+    position: static;
+}
