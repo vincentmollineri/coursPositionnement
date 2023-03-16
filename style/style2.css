@@ -1,0 +1,28 @@
+.element1
+{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.element2
+{
+    width: 300px;
+    height: 200px;
+    background-color: lightgreen;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.element3
+{
+    width: 300px;
+    height: 200px;
+    background-color: aqua;
+}
+
+div
+{
+    display: inline-block;
+}
